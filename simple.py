@@ -1,4 +1,3 @@
-def numcheck(x,y):
- z = x + y 
- return z 
-
+def numcheck(x, y):
+    z = x + y
+    return z
