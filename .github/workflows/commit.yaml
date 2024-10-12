@@ -25,7 +25,7 @@ jobs:
 
 
   - name: Run Python Black 
-     run: | 
+    run: | 
       black --check 
 
   - name: Pylama
