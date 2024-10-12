@@ -1,6 +1,6 @@
 ---
 name: Exercise 6 Automation CI-CD Testing 
-on: [push, pull-request]
+on: [push, pull_request]
 jobs:
  std_tests:
   runs-on: ubuntu-latest
